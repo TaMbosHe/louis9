@@ -3,4 +3,4 @@ prefix=9
 game=9play
 stayinchannel=true
 songinstatus=false
-token=NTM5NDg5NDkyMzA2ODg2NjU3.DzIOyA.5xqPxD50mJ7yCtudcrncSQFII6M
+token=NTM5NDg5NDYyNjMyMTg1ODg3.DzIQyA.RK6n54wC8aKo7aH37nIeHPxCI80
